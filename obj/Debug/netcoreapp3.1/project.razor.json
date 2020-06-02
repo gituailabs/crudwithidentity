@@ -20526,8 +20526,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/www/crudwithidentity/Views/Movie/Edit.cshtml",
+      "TargetPath": "Views\\Movie\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/www/crudwithidentity/Views/Shared/_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/www/crudwithidentity/Views/Movie/Delete.cshtml",
+      "TargetPath": "Views\\Movie\\Delete.cshtml",
       "FileKind": "mvc"
     },
     {
@@ -20546,6 +20556,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/www/crudwithidentity/Views/Movie/Create.cshtml",
+      "TargetPath": "Views\\Movie\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/www/crudwithidentity/Views/Shared/_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
@@ -20556,6 +20571,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/home/www/crudwithidentity/Views/Movie/Index.cshtml",
+      "TargetPath": "Views\\Movie\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/home/www/crudwithidentity/Views/Home/Privacy.cshtml",
       "TargetPath": "Views\\Home\\Privacy.cshtml",
       "FileKind": "mvc"
@@ -20563,6 +20583,11 @@
     {
       "FilePath": "/home/www/crudwithidentity/Views/_ViewStart.cshtml",
       "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/home/www/crudwithidentity/Views/Movie/Details.cshtml",
+      "TargetPath": "Views\\Movie\\Details.cshtml",
       "FileKind": "mvc"
     }
   ],
